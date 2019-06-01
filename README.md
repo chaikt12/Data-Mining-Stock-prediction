@@ -1,2 +1,2 @@
 # Data-Mining-Stock-prediction
-Please refer to Stock market prediction report.doc
+Please refer to Stock market prediction report.docx
